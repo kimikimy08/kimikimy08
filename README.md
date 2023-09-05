@@ -88,24 +88,8 @@
 ### ♾️ DevOps
 
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
-
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
   </a>
   
  <a href="https://github.com/" target="_blank"> 
