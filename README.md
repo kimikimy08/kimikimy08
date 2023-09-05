@@ -7,14 +7,13 @@
 
 - :credit_card: My full name is **Kimberly Chan** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently in my final year at the **FEU Institute of Technology**.
-- :books: My major is in **Information Technology with a specialization in Service Management and Business Analytics**.
+- :books: My major is **Information Technology with a specialization in Service Management and Business Analytics**.
 - :earth_asia: I reside in the **Philippines**.
-- :sweat_smile: I consider myself at an intermediate level in coding :penguin:
+- :sweat_smile: I consider myself an intermediate level in coding :penguin:
 - :monocle_face: My interests include coding, catching up on some much-needed sleep, and watching a wide range of content.
 - :sunglasses: **"Never Give Up!"** is my personal mantra, and I live by it.
 - 🌱 I’m currently learning **Mobile Development**
-- 👨‍💻 All of my projects are available at [https://github.com/kimikimy08](https://github.com/kimikimy08)
-
+- 👨‍💻 All of my projects are available at (https://github.com/kimikimy08)
 - 📫 How to reach me **kimberlychan.official@gmail.com**
 
 <br>
